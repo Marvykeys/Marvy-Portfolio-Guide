@@ -24,9 +24,9 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges]() | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
-| 👩🏻‍⚕️ [Health Analytics Case Study]() | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market]() | Data cleaning, data analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
+| 📈📊[ Analyze-International-Debt-Statistics ](https://github.com/Marvykeys/Analyze-International-Debt-Statistics) | Data analysis, data querying | This repo demonstrates my ability to tackle various SQL challenges and showcases my proficiency in SQL query writing and problem-solving. | 
+| 📈📊 [ Analyzing-Unicorn-Companies ](https://github.com/Marvykeys/Analyzing-Unicorn-Companies) | Data analysis, data querying, data wrangling | I answer business questions to better understand which industries are producing the highest valuations. |  
+| 🎮🎮 [ When-Was-the-Golden-Age-of-Video-Games ](https://github.com/Marvykeys/When-Was-the-Golden-Age-of-Video-Games) | Data analysis, data querying, data wrangling | I compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown. |  
 
 ***
 
