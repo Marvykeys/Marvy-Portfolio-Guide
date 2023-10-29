@@ -26,7 +26,12 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 |---|---|---|
 | 📈📊[ Analyze-International-Debt-Statistics ](https://github.com/Marvykeys/Analyze-International-Debt-Statistics) | Data analysis, data querying | This repo demonstrates my ability to tackle various SQL challenges and showcases my proficiency in SQL query writing and problem-solving. | 
 | 📈📊 [ Analyzing-Unicorn-Companies ](https://github.com/Marvykeys/Analyzing-Unicorn-Companies) | Data analysis, data querying, data wrangling | I answer business questions to better understand which industries are producing the highest valuations. |  
-| 🎮🎮 [ When-Was-the-Golden-Age-of-Video-Games ](https://github.com/Marvykeys/When-Was-the-Golden-Age-of-Video-Games) | Data analysis, data querying, data wrangling | I compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown. |  
+| 🎮🎮 [ When-Was-the-Golden-Age-of-Video-Games ](https://github.com/Marvykeys/When-Was-the-Golden-Age-of-Video-Games) | Data analysis, data querying, data wrangling | I compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown. |
+| 📈📉 [ Analyzing-Students-Mental-Health-using-SQL ](https://github.com/Marvykeys/Analyzing-Students-Mental-Health-using-SQL) | Data analysis, data querying, data wrangling | I explore the `students`
+data using PostgreSQL to find out if international students have a higher risk of mental
+health difficulties than the general population. |
+| 🚵 [ (DataCamp Project) Analyzing-Motorcycle-Part-Sales ](https://github.com/Marvykeys/Analyzing-Motorcycle-Part-Sales/tree/main) | Data analysis, data querying, data wrangling | I write a sql query to return the wholesale revenue by product line, and how this varies month-to-month and across warehouses for a fictional company. |
+| 👶 [ Analyzing-American-Baby-Name-Trends ](https://github.com/Marvykeys/Analyzing-American-Baby-Name-Trends) | Data analysis, data querying, data wrangling | I explore data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year from 1920 through 2020. |
 
 ***
 
@@ -34,13 +39,7 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [CS50P - Ongoing]() | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](). | - | 
-| 📺 [TMDb Movie Analysis]() |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
-| ⛽️ [Fuel Economy]() | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. |  pandas, matplotlib |   
-| 🍷 [Wine Quality]() | Data Wrangling & EDA | A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol level, sugar content and acidity level) are associated with higher wine quality. | pandas, matplotlib |   
-| 🌤 [Explore Weather Trends]() | Time-series analysis | In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. | pandas, matplotlib |
-| 🛍 [Super Store Analysis]() | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | pandas, matplotlib, seaborn |
-| 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis]() | EDA | Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt. | pandas, matplotlib, seaborn |
+| 📊[(DataCamp Project) NYC-Airbnb-Python-Data-Analysis ](https://github.com/Marvykeys/NYC-Airbnb-Python-Data-Analysis) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |    
 
 ***
 
@@ -49,6 +48,6 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🦄 [Maven Unicorn Challenge]() | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard]() |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market]() | A project close to 🏡 home. I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard]() |
+
 
 ***
