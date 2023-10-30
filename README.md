@@ -22,7 +22,7 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 
 # SQL
 
-| Project Link | Area of Analysis | Project Description | 
+| Project Link | Area | Project Description | 
 |---|---|---|
 | 📈📊[ Analyze-International-Debt-Statistics ](https://github.com/Marvykeys/Analyze-International-Debt-Statistics) | Data analysis, data querying | This repo demonstrates my ability to tackle various SQL challenges and showcases my proficiency in SQL query writing and problem-solving. | 
 | 📈📊 [ Analyzing-Unicorn-Companies ](https://github.com/Marvykeys/Analyzing-Unicorn-Companies) | Data analysis, data querying, data wrangling | I answer business questions to better understand which industries are producing the highest valuations. |  
