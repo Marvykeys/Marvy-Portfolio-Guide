@@ -37,7 +37,7 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 📊[(DataCamp Project) NYC-Airbnb-Python-Data-Analysis ](https://github.com/Marvykeys/NYC-Airbnb-Python-Data-Analysis) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |    
+| 📊[(DataCamp Project) NYC-Airbnb-Python-Data-Analysis ](https://github.com/Marvykeys/NYC-Airbnb-Python-Data-Analysis) |   Data Wrangling & EDA | I converted untidy data into appropriate formats to analyze, and answer some key questions | pandas, matplotlib |    
 
 ***
 
