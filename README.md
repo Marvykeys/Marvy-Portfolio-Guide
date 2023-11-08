@@ -48,7 +48,7 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 📊 [Airbnb New York City Market Analysis]() | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://app.powerbi.com/groups/me/reports/f338c16e-8cf9-47b6-a9c9-e10724d6d6bf/ReportSection?experience=power-bi) |
+| 📊 [Airbnb New York City Market Analysis]() | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWIyYzc0OWQtZTE1OC00MGNkLTg4ZmMtYmU3YzhiOWY0YWRlIiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9) |
 
 
 ***
