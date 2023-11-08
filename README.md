@@ -40,7 +40,7 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 | 📊[(DataCamp Project) NYC-Airbnb-Python-Data-Analysis ](https://github.com/Marvykeys/NYC-Airbnb-Python-Data-Analysis) |   Data Wrangling & EDA | I converted untidy data into appropriate formats to analyze, and answer some key questions | pandas, numpy|    
 | 💻[(DataCamp Project) Customer-Analytics-Preparing-Data-for-Modeling ](https://github.com/Marvykeys/Customer-Analytics-Preparing-Data-for-Modeling) |   Data Cleaning | I used pandas to clean up a dataset to prepare it for modelling and analysis | pandas, numpy|
 | 📠[ (FreeCodeCamp) Mean-variance-standard-deviation-calculator ](https://github.com/Marvykeys/Mean-variance-standard-deviation-calculator) |   Python Functions | I created a function named calculate() that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. | numpy |
-| 📈📉[(FreeCodeCamp) Demographic-data-analyzer ](https://github.com/Marvykeys/Demographic-data-analyzer) | EDA | I was required to analyze a demographic data using Pandas. | numpy, pandas |
+| 📈📉[(FreeCodeCamp) Demographic-data-analyzer ](https://github.com/Marvykeys/Demographic-data-analyzer) | EDA | I analyzed a demographic data using Pandas. | numpy, pandas |
 
 ***
 
