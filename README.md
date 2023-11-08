@@ -37,15 +37,18 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 📊[(DataCamp Project) NYC-Airbnb-Python-Data-Analysis ](https://github.com/Marvykeys/NYC-Airbnb-Python-Data-Analysis) |   Data Wrangling & EDA | I converted untidy data into appropriate formats to analyze, and answer some key questions | pandas, numpy, matplotlib |    
+| 📊[(DataCamp Project) NYC-Airbnb-Python-Data-Analysis ](https://github.com/Marvykeys/NYC-Airbnb-Python-Data-Analysis) |   Data Wrangling & EDA | I converted untidy data into appropriate formats to analyze, and answer some key questions | pandas, numpy|    
+| 💻[(DataCamp Project) Customer-Analytics-Preparing-Data-for-Modeling ](https://github.com/Marvykeys/Customer-Analytics-Preparing-Data-for-Modeling) |   Data Cleaning | I used pandas to clean up a dataset to prepare it for modelling and analysis | pandas, numpy|
+| 📠[ (FreeCodeCamp) Mean-variance-standard-deviation-calculator ](https://github.com/Marvykeys/Mean-variance-standard-deviation-calculator) |   Python Functions | I created a function named calculate() that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. | numpy |
+| 📈📉[(FreeCodeCamp) Demographic-data-analyzer ](https://github.com/Marvykeys/Demographic-data-analyzer) | EDA | I was required to analyze a demographic data using Pandas. | numpy, pandas |
 
 ***
 
-# Tableau
+# MS Power BI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge]() | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard]() |
+| 📊 [Airbnb New York City Market Analysis]() | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://app.powerbi.com/groups/me/reports/f338c16e-8cf9-47b6-a9c9-e10724d6d6bf/ReportSection?experience=power-bi) |
 
 
 ***
