@@ -51,7 +51,7 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 📊 [Airbnb New York City Market Analysis]() | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWIyYzc0OWQtZTE1OC00MGNkLTg4ZmMtYmU3YzhiOWY0YWRlIiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9) |
+| 📊 [Airbnb New York City Market Analysis](https://github.com/Marvykeys/Airbnb-New-York-City-Market-Analysis) | This report is focused on analysing Airbnb's New York City Market, which is made up of 3 datasets, airbnb_last_review.csv, airbnb_price.csv and airbnb_room_type.xlsx. Useful insights were obtained and key questions were answered. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWIyYzc0OWQtZTE1OC00MGNkLTg4ZmMtYmU3YzhiOWY0YWRlIiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9) |
 
 
 ***
