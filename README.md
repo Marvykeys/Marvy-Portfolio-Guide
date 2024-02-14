@@ -59,7 +59,7 @@ Welcome to my data portfolio! Where I document a summary of my projects.
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 📊 [Airbnb New York City Market Analysis]() | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWIyYzc0OWQtZTE1OC00MGNkLTg4ZmMtYmU3YzhiOWY0YWRlIiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9) |
+| :chart_with_downwards_trend: [Chemicals-in-Cosmetics-Analysis (SKILLPHORE databulos group)](https://github.com/Marvykeys/Chemicals-in-Cosmetics-Analysis-Skillphore-) | This report explores information on the chemicals used in cosmetics and personal care products and insights are shared on an interactive tableau dashboard. | [Dashboard](https://public.tableau.com/views/ChemicalsInCosmetics_16777095531370/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) |
 
 ***
 # Data Engineering
